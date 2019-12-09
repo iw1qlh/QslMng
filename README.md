@@ -7,8 +7,14 @@ Before to run QslMng please install these packages:
 - Microsoft SQL Server Compact 3.5 SP2 https://www.microsoft.com/it-it/download/details.aspx?id=5783 (for 64bit computer install before SSCERuntime-ITA-x86.msi then SSCERuntime-ITA-x64.msi)
 - Microsoft Report Viewer 2010 Redistributable Package https://www.microsoft.com/it-it/download/details.aspx?id=6442
 
+# First run
+- Run QslMng
+- Click on the item "Import" (default values will be loaded in Rate table)
+- Click on the item "Clients", add a client, press "Save"
+- Exit from the application
+
 # Notes
-- Program log is stored in C:\ProgramData\IW1QLH\QslMng
+- Application log is stored in C:\ProgramData\IW1QLH\QslMng
 
 # Important
 Before commencing using this Product, carefully read the following terms and conditions which have been accepted by your company ("Licensee").
